@@ -3,8 +3,8 @@ A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in 
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working as UI UX designer. (http://5semit.great-site.net/ )
-- 🌱 I’m currently learning Web Development 
+- 🔭 I’m currently working as UI UX designer. (https://www.behance.net/ruchitajain24) 
+- 🌱 I’m currently learning  
 - 📫 How to reach me: jain.ruchita2017@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/Ruchita-jain ) 
